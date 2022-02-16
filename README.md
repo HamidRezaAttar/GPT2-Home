@@ -1,4 +1,8 @@
 ﻿<h1 align="center">HomeGPT2 🏠</h1>
+ 
+# Hugging Face 🤗 model page 
+
+Make sure to check model page on [Hugging Face](https://huggingface.co/HamidRezaAttar/gpt2-product-description-generator)
 
 # How to use
 
