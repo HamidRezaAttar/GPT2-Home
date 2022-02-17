@@ -1,4 +1,4 @@
-﻿<h1 align="center">HomeGPT2 🏠</h1>
+﻿<h1 align="center">GPT2-Home 🏠</h1>
  
 # Hugging Face 🤗 model page 
 
