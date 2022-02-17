@@ -61,15 +61,15 @@ You can fine tune GPT-2 on any text-generation task using fastai library.
 
 # Citation info
 ```bibtex
-@misc{HomeGPT2,
+@misc{GPT2-Home,
   author = {HamidReza Fatollah Zadeh Attar},
-  title = {HomeGPT2 the English product description generator},
+  title = {GPT2-Home the English home product description generator},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/HamidRezaAttar/gpt-2-home-product-description-generation}},
+  howpublished = {\url{https://github.com/HamidRezaAttar/GPT2-Home}},
 }
 ```
 
 # Questions?
-Post a Github issue on the [Issues](https://github.com/HamidRezaAttar/gpt-2-home-product-description-generation/issues) repo.
+Post a Github issue on the [Issues](https://github.com/HamidRezaAttar/GPT2-Home/issues) repo.
