@@ -49,7 +49,7 @@ print(generated_text)
 
 |      Notebook      |                                                                                                                                                                                                 |
 |:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Test Outputs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HamidRezaAttar/gpt-2-home-product-description-generation/blob/main/notebooks/gpt_2_home_product_description_generation.ipynb) |
+| Test Outputs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HamidRezaAttar/GPT2-Home/blob/main/notebooks/gpt_2_home_product_description_generation.ipynb) |
 
 
 
