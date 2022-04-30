@@ -8,6 +8,10 @@ Make sure to check model page on [Hugging Face](https://huggingface.co/HamidReza
 
 For testing model with special configuration, please visit [Demo](https://huggingface.co/spaces/HamidRezaAttar/gpt2-home)
 
+# Blog Post
+
+For more detailed information about project development please refer to my [blog post](https://hamidrezaattar.github.io/blog/markdown/2022/02/17/gpt2-home.html).
+
 # How to use
 
 You can use this model directly with a pipeline for text generation:
