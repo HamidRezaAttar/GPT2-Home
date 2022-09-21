@@ -74,6 +74,12 @@ You can fine tune GPT-2 on any text-generation task using fastai library.
   howpublished = {\url{https://github.com/HamidRezaAttar/GPT2-Home}},
 }
 ```
+# Dataset Reference
+```bibtex
+Image-based recommendations on styles and substitutes
+J. McAuley, C. Targett, J. Shi, A. van den Hengel
+SIGIR, 2015
+```
 
 # Questions?
 Post a Github issue on the [Issues](https://github.com/HamidRezaAttar/GPT2-Home/issues) repo.
